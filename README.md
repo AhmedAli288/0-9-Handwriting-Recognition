@@ -17,6 +17,6 @@
     ```
 
 1. Setup an environment and run project (Activate virtual environment and install requirements and run development server)
-```shell script
-    source .env
-```
+    ```shell script
+        source .env
+    ```
